@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-easydeforum"
+description = "Nodes:Easy2DDeforum (Chan)"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/Chan-0312/ComfyUI-EasyDeforum"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-EasyDeforum"
+Icon = ""
